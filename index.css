@@ -1,0 +1,16 @@
+#parent-div {
+  display: flex;
+}
+
+.votes-view {
+  width: 20px;
+  height: 20px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.bttn-view {
+  margin: 0px 5px 5px 0px;
+  width: 100px;
+  height: 50px;
+}
